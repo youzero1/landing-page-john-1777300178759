@@ -10,7 +10,7 @@
 
 .card {
   position: relative;
-  background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #1e1b4b 100%);
+  background: linear-gradient(135deg, #7c2d12 0%, #c2410c 50%, #7c2d12 100%);
   border-radius: 1.5rem;
   padding: 4rem 2rem;
   text-align: center;
@@ -24,7 +24,7 @@
   transform: translateX(-50%);
   width: 600px;
   height: 400px;
-  background: radial-gradient(ellipse, rgba(99,102,241,0.4) 0%, transparent 70%);
+  background: radial-gradient(ellipse, rgba(249,115,22,0.4) 0%, transparent 70%);
   pointer-events: none;
 }
 
@@ -41,12 +41,12 @@
   width: 4rem;
   height: 4rem;
   border-radius: 50%;
-  background: rgba(99,102,241,0.3);
-  border: 1px solid rgba(99,102,241,0.5);
+  background: rgba(249,115,22,0.3);
+  border: 1px solid rgba(249,115,22,0.5);
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #a5b4fc;
+  color: #fed7aa;
 }
 
 .heading {
@@ -89,7 +89,7 @@
 }
 
 .primaryBtn:hover {
-  background: #f1f5f9;
+  background: #fff7ed;
   transform: translateY(-2px);
 }
 
